@@ -23,3 +23,9 @@ end
 def using_insert
   
 end
+def using_uniq
+  
+end
+def uding_flatten
+  
+end
